@@ -1,0 +1,17 @@
+algs4/
+EXAMPLES
+PDF
+.DS_Store
+notes.org
+*.class
+*.pdf
+*.mp4
+*.zip
+*.txt
+*/hw1/wordnext/
+*/hw2/seam/
+*/hw3/baseball/
+*/hw4/boggle/
+*/hw5/burrows/
+algs4.jar
+
